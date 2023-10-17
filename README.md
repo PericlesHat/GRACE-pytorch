@@ -33,7 +33,7 @@ This work partly uses the code from the [original version](https://github.com/ya
 
 ## Cite
 
-If you find this work useful, please cite our paper.
+If you find this work useful, please cite the original paper.
 ```
 @INPROCEEDINGS{9378031,
   author={Yang, Carl and Liu, Liyuan and Liu, Mengxiong and Wang, Zongyi and Zhang, Chao and Han, Jiawei},

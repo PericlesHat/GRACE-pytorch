@@ -1,5 +1,5 @@
 # GRACE-pytorch
-This repo is an unofficial implementation of [Graph Clustering with Embedding Propagation](https://cs.emory.edu/~jyang71/files/grace.pdf) in Python 3 and PyTorch. See [original code](https://github.com/yangji9181/GRACE) in Python 2 and TensorFlow. Note that I do not guarantee the correctness of this code.
+This repo is an unofficial implementation of [Graph Clustering with Embedding Propagation](https://cs.emory.edu/~jyang71/files/grace.pdf) in Python 3 and PyTorch. See the [original code](https://github.com/yangji9181/GRACE) in Python 2 and TensorFlow. Note that I do not guarantee the correctness of this code.
 
 
 ## TO-DO
